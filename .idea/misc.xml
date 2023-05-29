@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1385" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_book_manager.xml" value="0.25" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_hoa_don.xml" value="0.25" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_hoa_don_chi_tiet.xml" value="0.25" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_list_book_manager.xml" value="0.25" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_list_hoa_don.xml" value="0.25" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_list_nguoi_dung.xml" value="0.25" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_list_the_loai.xml" value="0.25" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_nguoi_dung.xml" value="0.25" />
+        <entry key="..\:/Du_an_Mau/QuanLySach/app/src/main/res/layout/activity_ph26669_cp17312.xml" value="0.25" />
+        <entry key="..\:/androi_nangcao/QuanLySach/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/drawable-v24/icdelete.xml" value="0.155" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_book_manager.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_hoa_don.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_hoa_don_chi_tiet.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_list_book_manager.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_list_hoa_don.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_list_nguoi_dung.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_list_the_loai.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_nguoi_dung.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_the_loai.xml" value="0.24010416666666667" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_thong_ke.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/activity_top_sach.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/item_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/item_adapter_tl.xml" value="0.253125" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/item_book.xml" value="0.4582159624413146" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/layout/item_hdct.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/menu/menu_book.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/menu/menu_context.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/menu/menu_theloai.xml" value="0.253125" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/menu/menu_tl.xml" value="0.25416666666666665" />
+        <entry key="..\:/duanmau/QuanLySach/app/src/main/res/menu/menu_user.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
